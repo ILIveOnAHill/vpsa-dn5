@@ -23,6 +23,6 @@ redovalnica.IzpisiKoncniUspeh(studenti)
 The grade book supports the following features:
 
 -   Initializing new students with empty grade lists
--   Adding grades in range 0–10
+-   Adding grades in range 1–10
 -   Computing averages with at least six grades
 -   Printing detailed and final grade summaries
